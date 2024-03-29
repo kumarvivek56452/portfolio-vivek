@@ -1,0 +1,14 @@
+.line{
+    border-bottom: 3px solid yellowgreen;
+    display: inline-block; 
+    padding-bottom: 5px;
+}
+.workexperience-section{
+    margin-top: 50px;
+}
+.date-class{
+    color:black
+}
+.timeline-section{
+    margin-top: 20px;
+}

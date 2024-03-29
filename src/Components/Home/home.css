@@ -1,0 +1,73 @@
+.home{
+    height: 300px;
+    color: white;
+    
+}
+
+.home-content{
+    margin: auto;
+    padding: 10px;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+.home-content h3{
+    margin-top: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+}
+
+.button-for-action{
+    display: flex;
+}
+
+.Hire-me-button{
+    background-color: #FF854C;
+    text-align: center;
+    width: 180px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-top: 10px;
+    border: 2px solid yellow;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Hire-me-button:hover{
+    background-color: #ee5d1a;
+    width: 250px;
+    color: black;
+    transition: 1s;
+}
+
+.Get-resume-btn{
+    background-color: yellow;
+    text-align: center;
+    width: 180px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    color:black;
+    margin-top: 10px;
+    border: 2px solid yellow;
+    font-size: 17px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Get-resume-btn:hover{
+    background-color: rgb(120, 169, 48);
+    width: 250px;
+    color: white;
+    transition: 1s;
+}
+
+.Get-resume-btn a{
+    text-decoration: none;
+    color: black;
+}
+.Get-resume-btn a:hover{
+    text-decoration: none;
+    color: white;
+}

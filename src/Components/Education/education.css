@@ -1,0 +1,11 @@
+.line{
+    border-bottom: 3px solid yellowgreen;
+    display: inline-block; 
+    padding-bottom: 5px;
+}
+.timeline-section{
+    margin-top: 20px;
+}
+.shift{
+    margin-top: 50px;
+}
